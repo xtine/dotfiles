@@ -1,14 +1,11 @@
 {
-	"color_scheme": "Packages/Vibrant Ink.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"soda_classic_tabs": true,
-	"tab_size": 4,
-	"theme": "Soda Dark.sublime-theme",
+	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }
